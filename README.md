@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  Computer-vision backend for the <strong>PoluSee</strong> iOS app — it watches public
+  Computer-vision backend for the <strong>PoluSee</strong> iOS app it watches public
   CCTV live streams, counts vehicles by class with YOLO, and serves the rolling
   traffic volume as JSON.
 </p>
@@ -270,4 +270,4 @@ window closes. Confirm the camera badge reads **Live** on the dashboard.
 
 ## License
 
-Proprietary — part of the PoluSee project. All rights reserved.
+Proprietary part of the Pirless team project. All rights reserved.
