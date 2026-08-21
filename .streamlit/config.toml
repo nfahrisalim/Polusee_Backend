@@ -1,0 +1,37 @@
+[theme]
+base = "light"
+
+# Palette:
+#   #0FA37F  teal      - warna primer (tombol, progress, aksen "live")
+#   #7FF8CF  mint      - aksen terang / highlight
+#   #5BC0EB  sky       - aksen sekunder
+#   #BFE9FF  pale blue - permukaan lembut, border, header tabel
+#   #FAF8F5  off-white - latar halaman
+#   #0B3A44  ink       - tambahan di luar 5 warna palet, dipakai khusus untuk teks
+#                        karena kelima warna di atas terlalu terang untuk dibaca
+#                        sebagai teks body di atas #FAF8F5
+primaryColor = "#0FA37F"
+backgroundColor = "#FAF8F5"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#0B3A44"
+linkColor = "#0FA37F"
+borderColor = "#BFE9FF"
+
+font = "SF Pro Display, SF Pro Text, SF Pro, -apple-system, BlinkMacSystemFont, Helvetica Neue, Arial, sans-serif"
+headingFont = "SF Pro Display, SF Pro Text, SF Pro, -apple-system, BlinkMacSystemFont, Helvetica Neue, Arial, sans-serif"
+
+baseRadius = "0.9rem"
+buttonRadius = "0.7rem"
+showWidgetBorder = true
+metricValueFontSize = "2rem"
+
+dataframeHeaderBackgroundColor = "#BFE9FF"
+dataframeBorderColor = "#BFE9FF"
+
+# st.info / st.success disamakan dengan palet
+blueBackgroundColor = "#BFE9FF"
+blueColor = "#5BC0EB"
+blueTextColor = "#0B3A44"
+greenBackgroundColor = "#7FF8CF"
+greenColor = "#0FA37F"
+greenTextColor = "#0B3A44"
